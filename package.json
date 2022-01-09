@@ -1,5 +1,4 @@
 {
-	"homepage": "http://psocbitm.github.io/portfolio",
 	"name": "portfolio",
 	"version": "0.1.0",
 	"private": true,
@@ -9,7 +8,6 @@
 		"@testing-library/user-event": "^12.6.0",
 		"axios": "^0.21.1",
 		"bootstrap": "^4.5.3",
-		"gh-pages": "^3.2.3",
 		"react": "^17.0.1",
 		"react-bootstrap": "^1.4.0",
 		"react-dom": "^17.0.1",
@@ -27,8 +25,6 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build",
 		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {
